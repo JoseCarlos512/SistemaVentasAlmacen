@@ -2,8 +2,5 @@
 
 ### Inicio realizando proyectos
 
-Este proyecto de ventas con alamcen fue diseñado con
-
-- PHP
-- CSS
-- JS
+Este proyecto de ventas con almacen, pensado en las ventas de un producto
+con registro de una boleta simple.
